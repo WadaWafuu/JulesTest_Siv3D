@@ -1,4 +1,4 @@
-# include <Siv3D.hpp> // OpenSiv3D v0.6.16 (これはSiv3Dのバージョンを示すコメントです。実際のコードには影響しません)
+# include <Siv3D.hpp> // OpenSiv3D v0.6.5
 
 void Main()
 {
